@@ -1,0 +1,173 @@
+﻿
+body {
+}
+.header
+{
+	display: block;
+    	position: relative;
+    	width: 100%;
+    	margin: 0;
+    	padding: 0;
+    }
+.nav{
+	height:50px;
+	vertical-align:middle;
+	background-color:#272822;
+}
+.logo{
+	width:145px;
+	float:left;
+	height:35px;
+	line-height:35px;
+	margin-left:15px;
+	font-family:Georgia;
+	font-size:20px;
+    color:White;
+    padding:5px;
+}
+.Search-Bar
+        {
+            width: 820px;
+            height: 50px;
+            line-height:50px;
+            text-align:center;
+        }
+#SearchBox
+{
+    height:25px;
+    width:350px;
+    margin:5px;
+    padding:5px;
+    border-style:none;
+    }
+#SearchButton
+{
+    height:25px;
+    margin:5px;
+    padding:5px;
+    border-style:none;
+    background-color:White;
+    }
+.LogStat{
+	float:right;
+    height: 50px;
+    
+}
+.log
+{
+    height:50px;
+	width:60px;
+	background-color:#272822;
+	color:white;
+    position: relative;
+    display: inline-block;
+	border-style:none;
+    top: 0px;
+    left: 0px;
+}
+.log:hover{
+	background-color:white;
+	color:#272822;
+}
+.box
+{
+	height:250px;
+	background-image:url(Images/technical.jpg);
+    }
+#sidebar
+{
+    float:left;
+    width:145px;
+    background-color:#232f3e;
+    text-align:center;
+    padding:5px;
+    height: 300px;
+    line-height:60px;
+    margin:5px;
+}
+#sidebar ul
+{
+    list-style:none;
+    padding:0px;
+    margin:0px;
+    }
+#sidebar ul li a
+{
+    text-decoration:none;
+    font-family:Georgia;
+    color:White;
+    padding:5px;
+    text-align:center;
+    
+    }
+#sidebar ul li a:hover
+{
+    text-decoration:underline;
+    }
+.content
+{
+    height:100%;
+    }
+#main
+{
+    margin-top:5px;
+    margin-left:160px;
+    margin-bottom:5px;
+    height:100%;
+    }
+.footer
+{
+    width: 100%;
+    background-color:#0B304F;
+    margin-top:auto;
+    height: 30px;
+}
+.footer ul
+{ 
+    padding:0px;
+    margin:0px;
+    list-style-type:none;
+    text-align:center;
+    height: 30px;
+}
+.footer ul li
+{
+    display:inline;
+    padding:15px;
+    vertical-align:middle;
+    }
+#Footer ul li a
+{
+    text-decoration:none;
+    color:White;
+    padding:5px;
+    vertical-align:middle;
+    }
+.footer ul li
+{
+    display:inline;
+    padding:15px;
+    vertical-align:middle;
+    }
+#Footer ul li a
+{
+    text-decoration:none;
+    color:White;
+    padding:5px;
+    vertical-align:middle;
+}
+.footer ul li
+{
+    display:inline;
+    padding:15px;
+    vertical-align:middle;
+    }
+.footer ul li a
+{
+    text-decoration:none;
+    color:White;
+    padding:5px;
+    vertical-align:middle;
+    }
+
+
